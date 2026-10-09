@@ -1,0 +1,7 @@
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\bin\Debug\Funcoes_1.exe.config
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\bin\Debug\Funcoes_1.exe
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\bin\Debug\Funcoes_1.pdb
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\obj\Debug\Funcoes_1.csproj.AssemblyReference.cache
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\obj\Debug\Funcoes_1.csproj.CoreCompileInputs.cache
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\obj\Debug\Funcoes_1.exe
+X:\Alunos\081250043\Algoritimo II\Funcoes\Funcoes_1\obj\Debug\Funcoes_1.pdb
