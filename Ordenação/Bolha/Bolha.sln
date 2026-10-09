@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bolha", "Bolha.csproj", "{DEFCF84F-B25A-4524-BB77-C5DDFCBFB5EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFCF84F-B25A-4524-BB77-C5DDFCBFB5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFCF84F-B25A-4524-BB77-C5DDFCBFB5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFCF84F-B25A-4524-BB77-C5DDFCBFB5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFCF84F-B25A-4524-BB77-C5DDFCBFB5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26A6B85-EA5D-405B-894A-EC175E6E0522}
+	EndGlobalSection
+EndGlobal
