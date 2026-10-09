@@ -1,0 +1,7 @@
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\bin\Debug\Par_Impar.exe.config
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\bin\Debug\Par_Impar.exe
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\bin\Debug\Par_Impar.pdb
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\obj\Debug\Par_Impar.csproj.AssemblyReference.cache
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\obj\Debug\Par_Impar.csproj.CoreCompileInputs.cache
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\obj\Debug\Par_Impar.exe
+Z:\081250043\Algoritimo II\Coleções\Par_Impar\obj\Debug\Par_Impar.pdb

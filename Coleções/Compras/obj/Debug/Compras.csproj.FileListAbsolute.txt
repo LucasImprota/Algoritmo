@@ -1,0 +1,7 @@
+C:\Users\081250043\source\repos\Compras\bin\Debug\Compras.exe.config
+C:\Users\081250043\source\repos\Compras\bin\Debug\Compras.exe
+C:\Users\081250043\source\repos\Compras\bin\Debug\Compras.pdb
+C:\Users\081250043\source\repos\Compras\obj\Debug\Compras.csproj.AssemblyReference.cache
+C:\Users\081250043\source\repos\Compras\obj\Debug\Compras.csproj.CoreCompileInputs.cache
+C:\Users\081250043\source\repos\Compras\obj\Debug\Compras.exe
+C:\Users\081250043\source\repos\Compras\obj\Debug\Compras.pdb
